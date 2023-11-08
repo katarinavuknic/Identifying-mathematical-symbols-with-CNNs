@@ -1,0 +1,5 @@
+streamlit
+tensorflow (anaconda)
+numpy
+scikit-learn
+opencv-python
